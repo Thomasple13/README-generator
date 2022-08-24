@@ -1,38 +1,10 @@
-# a
+# README Generator
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Description
+README Generator will generate a professional readme file using the inquirer application running on NodeJS. The application will ask you a series of quiestions through the terminal and inputs are then placed into a readme file.
 
-  ## Description
 
-  a
-
-  ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contribution](#contributions)
-  - [Tests](#tests)
-  - [License](#license)
-  - [Questions](#questions)
-
-  ## Installation
-  a
-
-  ## Usage
-  a
-
-  ## Contributions
-  a
-  
-  ## Tests
-  a
-
-  ## Questions
-  For questions reach out to the following links below: 
-
-  -[Email](mailto:a)
-  -[GitHub](https://www.github.com/a)
-
-  ## License
-    This project is licensed by [MIT License](https://choosealicense.com/licenses/mit/)
+## Screen Recording
+https://drive.google.com/file/d/1Gs7B7WB8cCqt_-816tPmyAu4ha_X_yJF/view
 
   
